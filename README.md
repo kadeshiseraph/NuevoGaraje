@@ -1,2 +1,2 @@
 # NuevoGaraje
-Nuevo Garaje Minecraft
+Nuevo Garaje Minecraft Server
