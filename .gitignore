@@ -1,0 +1,6 @@
+worldstorage/
+world/
+world_the_end/
+world_nether/
+*.log
+/plugins/dynmap/
