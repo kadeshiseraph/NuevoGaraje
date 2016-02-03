@@ -5,3 +5,4 @@ world_nether
 *.log
 *.log.*
 /plugins/dynmap/
+server.properties
